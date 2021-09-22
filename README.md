@@ -1,5 +1,8 @@
 # PROJECT SETUP
 
+**THIS IS A CHANGE**
+
+
 In this **ReadMe**, you find instructions for getting started with Assignment 1 of IVGM, as well as necessary steps to prepare your Unity project for submission. Please read the entire document with your group before you get started. To make sure there are no conflicts on Git, we recommend that you do these steps together.
 
 This Unity project includes the basic FPS Microgame. It does not include any mods from the tutorials. The assets from the base game (e.g., enemies, game objectives, level building components) can be found within `Assets > FPS`. You can use these assets to build your levels and freely add to them as needed. By default, the project also needs the `TextMesh Pro` folder. You don't need to change anything inside of here.
